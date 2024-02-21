@@ -1,4 +1,3 @@
-
 NAME= megaphone
 SRCS= $(wildcard *.cpp)
 
